@@ -1,0 +1,551 @@
+2022-06-11 14:05:39,584-OCGNN-INFO-Start training
+2022-06-11 14:05:39,584-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-11 14:05:39,584-OCGNN-INFO-n-epochs:5000, n-hidden:32,n-layers:4,weight-decay:0.0005
+2022-06-11 18:28:12,503-OCGNN-INFO-Start training
+2022-06-11 18:28:12,503-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-11 18:28:12,504-OCGNN-INFO-n-epochs:5000, n-hidden:32,n-layers:4,weight-decay:0.0005
+2022-06-11 18:32:14,256-OCGNN-INFO-Start training
+2022-06-11 18:32:14,256-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-11 18:32:14,256-OCGNN-INFO-n-epochs:5000, n-hidden:32,n-layers:4,weight-decay:0.0005
+2022-06-11 18:40:09,635-OCGNN-INFO-Start training
+2022-06-11 18:40:09,635-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-11 18:40:09,635-OCGNN-INFO-n-epochs:5000, n-hidden:32,n-layers:4,weight-decay:0.0005
+2022-06-11 19:12:09,326-OCGNN-INFO-Start training
+2022-06-11 19:12:09,326-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-11 19:12:09,326-OCGNN-INFO-n-epochs:5000, n-hidden:32,n-layers:4,weight-decay:0.0005
+2022-06-11 19:15:40,277-OCGNN-INFO-Start training
+2022-06-11 19:15:40,277-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-11 19:15:40,277-OCGNN-INFO-n-epochs:5000, n-hidden:32,n-layers:4,weight-decay:0.0005
+2022-06-11 19:18:40,583-OCGNN-INFO-Start training
+2022-06-11 19:18:40,583-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-11 19:18:40,583-OCGNN-INFO-n-epochs:5000, n-hidden:32,n-layers:4,weight-decay:0.0005
+2022-06-11 19:22:20,998-OCGNN-INFO-Start training
+2022-06-11 19:22:20,998-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-11 19:22:20,998-OCGNN-INFO-n-epochs:3000, n-hidden:32,n-layers:4,weight-decay:0.0005
+2022-06-11 23:06:52,358-OCGNN-INFO-Start training
+2022-06-11 23:06:52,359-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-11 23:06:52,359-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005
+2022-06-12 20:46:44,774-OCGNN-INFO-Start training
+2022-06-12 20:46:44,775-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-12 20:46:44,775-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-12 20:48:30,988-OCGNN-INFO-Start training
+2022-06-12 20:48:30,988-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-12 20:48:30,988-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-12 20:55:20,468-OCGNN-INFO-Start training
+2022-06-12 20:55:20,468-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-12 20:55:20,468-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-13 16:39:29,894-OCGNN-INFO-Start training
+2022-06-13 16:39:29,895-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-13 16:39:29,895-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-13 16:46:35,009-OCGNN-INFO-Start training
+2022-06-13 16:46:35,009-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-13 16:46:35,009-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-14 15:20:57,014-OCGNN-INFO-Start training
+2022-06-14 15:20:57,014-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-14 15:20:57,014-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-14 15:23:26,051-OCGNN-INFO-Start training
+2022-06-14 15:23:26,051-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-14 15:23:26,051-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-14 15:25:49,530-OCGNN-INFO-Start training
+2022-06-14 15:25:49,530-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-14 15:25:49,530-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-14 15:28:13,661-OCGNN-INFO-Start training
+2022-06-14 15:28:13,661-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-14 15:28:13,661-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-14 15:37:36,035-OCGNN-INFO-Start training
+2022-06-14 15:37:36,035-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-14 15:37:36,035-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005
+2022-06-16 16:21:26,048-OCGNN-INFO-Start training
+2022-06-16 16:21:26,048-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 16:21:26,048-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.1,noise_d:2
+2022-06-16 16:23:39,175-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.5026 | Test AUPRC 0.5352
+2022-06-16 16:23:39,175-OCGNN-INFO-Test f1:0.659,acc:0.4957,pre:0.4971,recall:0.9771
+2022-06-16 16:23:39,175-OCGNN-INFO-
+
+2022-06-16 16:23:39,376-OCGNN-INFO-Start training
+2022-06-16 16:23:39,377-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 16:23:39,377-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.1,noise_d:2
+2022-06-16 16:25:54,273-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.5361 | Test AUPRC 0.5528
+2022-06-16 16:25:54,273-OCGNN-INFO-Test f1:0.6615,acc:0.4986,pre:0.4986,recall:0.9829
+2022-06-16 16:25:54,273-OCGNN-INFO-
+
+2022-06-16 16:25:54,503-OCGNN-INFO-Start training
+2022-06-16 16:25:54,503-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 16:25:54,503-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.1,noise_d:2
+2022-06-16 16:28:05,950-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.5284 | Test AUPRC 0.5600
+2022-06-16 16:28:05,950-OCGNN-INFO-Test f1:0.5787,acc:0.5271,pre:0.5205,recall:0.6514
+2022-06-16 16:28:05,950-OCGNN-INFO-
+
+2022-06-16 16:28:06,180-OCGNN-INFO-Start training
+2022-06-16 16:28:06,180-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 16:28:06,180-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.1,noise_d:2
+2022-06-16 16:30:16,859-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.5085 | Test AUPRC 0.5377
+2022-06-16 16:30:16,859-OCGNN-INFO-Test f1:0.6628,acc:0.5014,pre:0.5,recall:0.9829
+2022-06-16 16:30:16,859-OCGNN-INFO-
+
+2022-06-16 16:30:17,077-OCGNN-INFO-Start training
+2022-06-16 16:30:17,077-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 16:30:17,077-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.1,noise_d:2
+2022-06-16 16:32:27,418-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.5653 | Test AUPRC 0.5912
+2022-06-16 16:32:27,418-OCGNN-INFO-Test f1:0.6497,acc:0.49,pre:0.494,recall:0.9486
+2022-06-16 16:32:27,418-OCGNN-INFO-
+
+2022-06-16 18:05:54,993-OCGNN-INFO-Start training
+2022-06-16 18:05:54,993-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 18:05:54,993-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 18:07:45,465-OCGNN-INFO-Start training
+2022-06-16 18:07:45,465-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 18:07:45,466-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 18:09:09,626-OCGNN-INFO-Start training
+2022-06-16 18:09:09,627-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 18:09:09,627-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 18:11:25,911-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.6881 | Test AUPRC 0.6734
+2022-06-16 18:11:25,911-OCGNN-INFO-Test f1:0.6693,acc:0.5157,pre:0.5074,recall:0.9829
+2022-06-16 18:11:25,911-OCGNN-INFO-
+
+2022-06-16 18:11:26,118-OCGNN-INFO-Start training
+2022-06-16 18:11:26,118-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 18:11:26,118-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 18:13:41,052-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.7240 | Test AUPRC 0.6972
+2022-06-16 18:13:41,052-OCGNN-INFO-Test f1:0.6667,acc:0.5014,pre:0.5,recall:1.0
+2022-06-16 18:13:41,052-OCGNN-INFO-
+
+2022-06-16 18:13:41,278-OCGNN-INFO-Start training
+2022-06-16 18:13:41,278-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 18:13:41,278-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 18:15:55,179-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.7539 | Test AUPRC 0.7437
+2022-06-16 18:15:55,179-OCGNN-INFO-Test f1:0.6679,acc:0.5071,pre:0.5029,recall:0.9943
+2022-06-16 18:15:55,179-OCGNN-INFO-
+
+2022-06-16 18:15:55,411-OCGNN-INFO-Start training
+2022-06-16 18:15:55,411-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 18:15:55,411-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 18:18:08,919-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.7063 | Test AUPRC 0.6829
+2022-06-16 18:18:08,920-OCGNN-INFO-Test f1:0.6667,acc:0.5014,pre:0.5,recall:1.0
+2022-06-16 18:18:08,920-OCGNN-INFO-
+
+2022-06-16 18:18:09,142-OCGNN-INFO-Start training
+2022-06-16 18:18:09,143-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 18:18:09,143-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 18:20:22,539-OCGNN-INFO-Current epoch: 4999 Test AUROC 0.7294 | Test AUPRC 0.6997
+2022-06-16 18:20:22,539-OCGNN-INFO-Test f1:0.6667,acc:0.5014,pre:0.5,recall:1.0
+2022-06-16 18:20:22,539-OCGNN-INFO-
+
+2022-06-16 19:38:16,459-OCGNN-INFO-Start training
+2022-06-16 19:38:16,459-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:38:16,459-OCGNN-INFO-n-epochs:5000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:38:44,502-OCGNN-INFO-Start training
+2022-06-16 19:38:44,502-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:38:44,502-OCGNN-INFO-n-epochs:400, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:38:55,094-OCGNN-INFO-Current epoch: 399 Test AUROC 0.8337 | Test AUPRC 0.7772
+2022-06-16 19:38:55,095-OCGNN-INFO-Test f1:0.6705,acc:0.51,pre:0.5043,recall:1.0
+2022-06-16 19:38:55,095-OCGNN-INFO-
+
+2022-06-16 19:38:55,289-OCGNN-INFO-Start training
+2022-06-16 19:38:55,289-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:38:55,289-OCGNN-INFO-n-epochs:400, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:39:05,788-OCGNN-INFO-Current epoch: 399 Test AUROC 0.8250 | Test AUPRC 0.7760
+2022-06-16 19:39:05,788-OCGNN-INFO-Test f1:0.6692,acc:0.5071,pre:0.5029,recall:1.0
+2022-06-16 19:39:05,788-OCGNN-INFO-
+
+2022-06-16 19:39:06,012-OCGNN-INFO-Start training
+2022-06-16 19:39:06,012-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:39:06,012-OCGNN-INFO-n-epochs:400, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:39:16,537-OCGNN-INFO-Current epoch: 399 Test AUROC 0.8263 | Test AUPRC 0.7743
+2022-06-16 19:39:16,537-OCGNN-INFO-Test f1:0.6705,acc:0.51,pre:0.5043,recall:1.0
+2022-06-16 19:39:16,538-OCGNN-INFO-
+
+2022-06-16 19:39:16,764-OCGNN-INFO-Start training
+2022-06-16 19:39:16,764-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:39:16,764-OCGNN-INFO-n-epochs:400, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:39:27,204-OCGNN-INFO-Current epoch: 399 Test AUROC 0.8426 | Test AUPRC 0.7931
+2022-06-16 19:39:27,204-OCGNN-INFO-Test f1:0.6705,acc:0.51,pre:0.5043,recall:1.0
+2022-06-16 19:39:27,204-OCGNN-INFO-
+
+2022-06-16 19:39:27,425-OCGNN-INFO-Start training
+2022-06-16 19:39:27,426-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:39:27,426-OCGNN-INFO-n-epochs:400, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:39:37,882-OCGNN-INFO-Current epoch: 399 Test AUROC 0.8264 | Test AUPRC 0.7750
+2022-06-16 19:39:37,882-OCGNN-INFO-Test f1:0.6692,acc:0.5071,pre:0.5029,recall:1.0
+2022-06-16 19:39:37,882-OCGNN-INFO-
+
+2022-06-16 19:39:54,361-OCGNN-INFO-Start training
+2022-06-16 19:39:54,361-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:39:54,361-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:41:13,575-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7801 | Test AUPRC 0.7482
+2022-06-16 19:41:13,575-OCGNN-INFO-Test f1:0.6863,acc:0.5442,pre:0.5224,recall:1.0
+2022-06-16 19:41:13,575-OCGNN-INFO-
+
+2022-06-16 19:41:13,774-OCGNN-INFO-Start training
+2022-06-16 19:41:13,774-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:41:13,774-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:42:35,526-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7466 | Test AUPRC 0.7312
+2022-06-16 19:42:35,526-OCGNN-INFO-Test f1:0.6706,acc:0.5185,pre:0.5089,recall:0.9829
+2022-06-16 19:42:35,526-OCGNN-INFO-
+
+2022-06-16 19:42:35,752-OCGNN-INFO-Start training
+2022-06-16 19:42:35,752-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:42:35,752-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:43:57,891-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7541 | Test AUPRC 0.7407
+2022-06-16 19:43:57,891-OCGNN-INFO-Test f1:0.6667,acc:0.5043,pre:0.5014,recall:0.9943
+2022-06-16 19:43:57,891-OCGNN-INFO-
+
+2022-06-16 19:43:58,115-OCGNN-INFO-Start training
+2022-06-16 19:43:58,115-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:43:58,115-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:45:19,666-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7867 | Test AUPRC 0.7523
+2022-06-16 19:45:19,666-OCGNN-INFO-Test f1:0.6667,acc:0.5014,pre:0.5,recall:1.0
+2022-06-16 19:45:19,666-OCGNN-INFO-
+
+2022-06-16 19:45:19,902-OCGNN-INFO-Start training
+2022-06-16 19:45:19,902-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:45:19,902-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:46:40,604-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7368 | Test AUPRC 0.7145
+2022-06-16 19:46:40,604-OCGNN-INFO-Test f1:0.677,acc:0.5271,pre:0.5133,recall:0.9943
+2022-06-16 19:46:40,604-OCGNN-INFO-
+
+2022-06-16 19:51:47,836-OCGNN-INFO-Start training
+2022-06-16 19:51:47,836-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:51:47,836-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:53:06,429-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7888 | Test AUPRC 0.7550
+2022-06-16 19:53:06,429-OCGNN-INFO-Test f1:0.6731,acc:0.5157,pre:0.5072,recall:1.0
+2022-06-16 19:53:06,430-OCGNN-INFO-
+
+2022-06-16 19:53:06,630-OCGNN-INFO-Start training
+2022-06-16 19:53:06,630-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:53:06,630-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:54:26,971-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7901 | Test AUPRC 0.7701
+2022-06-16 19:54:26,972-OCGNN-INFO-Test f1:0.6705,acc:0.51,pre:0.5043,recall:1.0
+2022-06-16 19:54:26,972-OCGNN-INFO-
+
+2022-06-16 19:54:27,197-OCGNN-INFO-Start training
+2022-06-16 19:54:27,198-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:54:27,198-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:55:49,382-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7771 | Test AUPRC 0.7489
+2022-06-16 19:55:49,382-OCGNN-INFO-Test f1:0.6641,acc:0.4986,pre:0.4986,recall:0.9943
+2022-06-16 19:55:49,382-OCGNN-INFO-
+
+2022-06-16 19:55:49,634-OCGNN-INFO-Start training
+2022-06-16 19:55:49,634-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:55:49,634-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:57:10,986-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7717 | Test AUPRC 0.7622
+2022-06-16 19:57:10,986-OCGNN-INFO-Test f1:0.6679,acc:0.5071,pre:0.5029,recall:0.9943
+2022-06-16 19:57:10,986-OCGNN-INFO-
+
+2022-06-16 19:57:11,214-OCGNN-INFO-Start training
+2022-06-16 19:57:11,214-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 19:57:11,214-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 19:58:31,860-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7830 | Test AUPRC 0.7715
+2022-06-16 19:58:31,860-OCGNN-INFO-Test f1:0.6692,acc:0.5071,pre:0.5029,recall:1.0
+2022-06-16 19:58:31,860-OCGNN-INFO-
+
+2022-06-16 20:50:48,964-OCGNN-INFO-Start training
+2022-06-16 20:50:48,964-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 20:50:48,964-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 20:52:07,220-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7892 | Test AUPRC 0.7501
+2022-06-16 20:52:07,220-OCGNN-INFO-Test f1:0.6705,acc:0.51,pre:0.5043,recall:1.0
+2022-06-16 20:52:07,220-OCGNN-INFO-
+
+2022-06-16 20:52:07,418-OCGNN-INFO-Start training
+2022-06-16 20:52:07,418-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 20:52:07,418-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 20:53:27,393-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7742 | Test AUPRC 0.7606
+2022-06-16 20:53:27,394-OCGNN-INFO-Test f1:0.6654,acc:0.4986,pre:0.4986,recall:1.0
+2022-06-16 20:53:27,394-OCGNN-INFO-
+
+2022-06-16 20:53:27,615-OCGNN-INFO-Start training
+2022-06-16 20:53:27,615-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 20:53:27,615-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 20:54:50,214-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7800 | Test AUPRC 0.7471
+2022-06-16 20:54:50,214-OCGNN-INFO-Test f1:0.6718,acc:0.5128,pre:0.5058,recall:1.0
+2022-06-16 20:54:50,214-OCGNN-INFO-
+
+2022-06-16 20:54:50,440-OCGNN-INFO-Start training
+2022-06-16 20:54:50,440-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 20:54:50,440-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 20:56:12,006-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7373 | Test AUPRC 0.6819
+2022-06-16 20:56:12,006-OCGNN-INFO-Test f1:0.6679,acc:0.5043,pre:0.5014,recall:1.0
+2022-06-16 20:56:12,006-OCGNN-INFO-
+
+2022-06-16 20:56:12,235-OCGNN-INFO-Start training
+2022-06-16 20:56:12,235-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 20:56:12,235-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 20:57:33,304-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7594 | Test AUPRC 0.7370
+2022-06-16 20:57:33,304-OCGNN-INFO-Test f1:0.6692,acc:0.5071,pre:0.5029,recall:1.0
+2022-06-16 20:57:33,304-OCGNN-INFO-
+
+2022-06-16 21:49:10,365-OCGNN-INFO-Start training
+2022-06-16 21:49:10,365-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 21:49:10,365-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 21:50:28,280-OCGNN-INFO-Start training
+2022-06-16 21:50:28,280-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 21:50:28,280-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 21:51:48,336-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.5148 | Test AUPRC 0.5277
+2022-06-16 21:51:48,336-OCGNN-INFO-Test f1:0.5902,acc:0.5014,pre:0.5,recall:0.72
+2022-06-16 21:51:48,336-OCGNN-INFO-
+
+2022-06-16 21:51:48,537-OCGNN-INFO-Start training
+2022-06-16 21:51:48,537-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 21:51:48,538-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 21:53:10,854-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.6333 | Test AUPRC 0.5970
+2022-06-16 21:53:10,854-OCGNN-INFO-Test f1:0.6758,acc:0.5271,pre:0.5134,recall:0.9886
+2022-06-16 21:53:10,854-OCGNN-INFO-
+
+2022-06-16 21:53:11,074-OCGNN-INFO-Start training
+2022-06-16 21:53:11,074-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 21:53:11,074-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 21:54:32,827-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.6177 | Test AUPRC 0.6090
+2022-06-16 21:54:32,827-OCGNN-INFO-Test f1:0.6588,acc:0.5071,pre:0.503,recall:0.9543
+2022-06-16 21:54:32,827-OCGNN-INFO-
+
+2022-06-16 21:54:33,054-OCGNN-INFO-Start training
+2022-06-16 21:54:33,054-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 21:54:33,055-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 21:55:54,175-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.6746 | Test AUPRC 0.6557
+2022-06-16 21:55:54,175-OCGNN-INFO-Test f1:0.6515,acc:0.6068,pre:0.5837,recall:0.7371
+2022-06-16 21:55:54,175-OCGNN-INFO-
+
+2022-06-16 21:55:54,398-OCGNN-INFO-Start training
+2022-06-16 21:55:54,398-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-16 21:55:54,398-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-16 21:57:15,286-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.6016 | Test AUPRC 0.5870
+2022-06-16 21:57:15,286-OCGNN-INFO-Test f1:0.6654,acc:0.51,pre:0.5044,recall:0.9771
+2022-06-16 21:57:15,286-OCGNN-INFO-
+
+2022-06-17 14:35:20,972-OCGNN-INFO-Start training
+2022-06-17 14:35:20,972-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:35:20,972-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:36:40,302-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.5901 | Test AUPRC 0.6061
+2022-06-17 14:36:40,302-OCGNN-INFO-Test f1:0.6332,acc:0.5214,pre:0.5124,recall:0.8286
+2022-06-17 14:36:40,302-OCGNN-INFO-
+
+2022-06-17 14:36:40,501-OCGNN-INFO-Start training
+2022-06-17 14:36:40,501-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:36:40,501-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:38:01,724-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.6282 | Test AUPRC 0.6035
+2022-06-17 14:38:01,724-OCGNN-INFO-Test f1:0.6719,acc:0.5214,pre:0.5104,recall:0.9829
+2022-06-17 14:38:01,724-OCGNN-INFO-
+
+2022-06-17 14:38:01,945-OCGNN-INFO-Start training
+2022-06-17 14:38:01,945-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:38:01,945-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:39:25,023-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.6124 | Test AUPRC 0.6023
+2022-06-17 14:39:25,023-OCGNN-INFO-Test f1:0.6667,acc:0.5299,pre:0.5156,recall:0.9429
+2022-06-17 14:39:25,023-OCGNN-INFO-
+
+2022-06-17 14:39:25,244-OCGNN-INFO-Start training
+2022-06-17 14:39:25,244-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:39:25,244-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:40:47,390-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.6496 | Test AUPRC 0.6182
+2022-06-17 14:40:47,390-OCGNN-INFO-Test f1:0.6639,acc:0.5356,pre:0.5194,recall:0.92
+2022-06-17 14:40:47,390-OCGNN-INFO-
+
+2022-06-17 14:40:47,611-OCGNN-INFO-Start training
+2022-06-17 14:40:47,611-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:40:47,611-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:42:09,241-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.6163 | Test AUPRC 0.5971
+2022-06-17 14:42:09,241-OCGNN-INFO-Test f1:0.677,acc:0.5271,pre:0.5133,recall:0.9943
+2022-06-17 14:42:09,241-OCGNN-INFO-
+
+2022-06-17 14:44:38,811-OCGNN-INFO-Start training
+2022-06-17 14:44:38,811-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:44:38,811-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:45:58,320-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8106 | Test AUPRC 0.7910
+2022-06-17 14:45:58,320-OCGNN-INFO-Test f1:0.6654,acc:0.4986,pre:0.4986,recall:1.0
+2022-06-17 14:45:58,320-OCGNN-INFO-
+
+2022-06-17 14:45:58,525-OCGNN-INFO-Start training
+2022-06-17 14:45:58,525-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:45:58,525-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:47:21,667-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8017 | Test AUPRC 0.7946
+2022-06-17 14:47:21,667-OCGNN-INFO-Test f1:0.6654,acc:0.4986,pre:0.4986,recall:1.0
+2022-06-17 14:47:21,667-OCGNN-INFO-
+
+2022-06-17 14:47:21,904-OCGNN-INFO-Start training
+2022-06-17 14:47:21,904-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:47:21,904-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:48:44,419-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7851 | Test AUPRC 0.7777
+2022-06-17 14:48:44,419-OCGNN-INFO-Test f1:0.6705,acc:0.5128,pre:0.5058,recall:0.9943
+2022-06-17 14:48:44,419-OCGNN-INFO-
+
+2022-06-17 14:48:44,650-OCGNN-INFO-Start training
+2022-06-17 14:48:44,650-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:48:44,650-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:50:06,147-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7962 | Test AUPRC 0.7822
+2022-06-17 14:50:06,147-OCGNN-INFO-Test f1:0.6667,acc:0.5014,pre:0.5,recall:1.0
+2022-06-17 14:50:06,147-OCGNN-INFO-
+
+2022-06-17 14:50:06,376-OCGNN-INFO-Start training
+2022-06-17 14:50:06,376-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:50:06,376-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:50:51,972-OCGNN-INFO-Start training
+2022-06-17 14:50:51,972-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:50:51,972-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:52:12,876-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8598 | Test AUPRC 0.8420
+2022-06-17 14:52:12,876-OCGNN-INFO-Test f1:0.73,acc:0.6353,pre:0.5786,recall:0.9886
+2022-06-17 14:52:12,876-OCGNN-INFO-
+
+2022-06-17 14:52:13,083-OCGNN-INFO-Start training
+2022-06-17 14:52:13,083-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:52:13,083-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:53:34,988-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7980 | Test AUPRC 0.7828
+2022-06-17 14:53:34,988-OCGNN-INFO-Test f1:0.6905,acc:0.5556,pre:0.5289,recall:0.9943
+2022-06-17 14:53:34,988-OCGNN-INFO-
+
+2022-06-17 14:53:35,226-OCGNN-INFO-Start training
+2022-06-17 14:53:35,227-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:53:35,227-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:54:57,035-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.5057 | Test AUPRC 0.5057
+2022-06-17 14:54:57,036-OCGNN-INFO-Test f1:0.0335,acc:0.5071,pre:0.75,recall:0.0171
+2022-06-17 14:54:57,036-OCGNN-INFO-
+
+2022-06-17 14:54:57,271-OCGNN-INFO-Start training
+2022-06-17 14:54:57,271-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:54:57,271-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-06-17 14:56:18,222-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7556 | Test AUPRC 0.7286
+2022-06-17 14:56:18,222-OCGNN-INFO-Test f1:0.6654,acc:0.4986,pre:0.4986,recall:1.0
+2022-06-17 14:56:18,222-OCGNN-INFO-
+
+2022-06-17 14:56:18,452-OCGNN-INFO-Start training
+2022-06-17 14:56:18,452-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-06-17 14:56:18,452-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:3,weight-decay:0.0005,noise_p:0.02,noise_d:2
+2022-07-07 17:10:49,659-OCGNN-INFO-Start training
+2022-07-07 17:10:49,659-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:10:49,659-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:12:12,611-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8075 | Test AUPRC 0.8034
+2022-07-07 17:12:12,611-OCGNN-INFO-Test f1:0.6851,acc:0.5499,pre:0.5266,recall:0.9802
+2022-07-07 17:12:12,611-OCGNN-INFO-
+
+2022-07-07 17:12:12,804-OCGNN-INFO-Start training
+2022-07-07 17:12:12,805-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:12:12,805-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:13:36,171-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7957 | Test AUPRC 0.7934
+2022-07-07 17:13:36,171-OCGNN-INFO-Test f1:0.6754,acc:0.5263,pre:0.5135,recall:0.9863
+2022-07-07 17:13:36,171-OCGNN-INFO-
+
+2022-07-07 17:13:36,385-OCGNN-INFO-Start training
+2022-07-07 17:13:36,385-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:13:36,385-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:15:00,763-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8204 | Test AUPRC 0.8100
+2022-07-07 17:15:00,763-OCGNN-INFO-Test f1:0.6711,acc:0.511,pre:0.5054,recall:0.9985
+2022-07-07 17:15:00,763-OCGNN-INFO-
+
+2022-07-07 17:15:00,982-OCGNN-INFO-Start training
+2022-07-07 17:15:00,982-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:15:00,982-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:16:25,912-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8101 | Test AUPRC 0.7988
+2022-07-07 17:16:25,912-OCGNN-INFO-Test f1:0.6684,acc:0.505,pre:0.5023,recall:0.9985
+2022-07-07 17:16:25,912-OCGNN-INFO-
+
+2022-07-07 17:16:26,127-OCGNN-INFO-Start training
+2022-07-07 17:16:26,127-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:16:26,127-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:17:50,350-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8048 | Test AUPRC 0.7970
+2022-07-07 17:17:50,350-OCGNN-INFO-Test f1:0.6817,acc:0.5392,pre:0.5205,recall:0.9878
+2022-07-07 17:17:50,350-OCGNN-INFO-
+
+2022-07-07 17:17:53,586-OCGNN-INFO-Start training
+2022-07-07 17:17:53,586-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:17:53,586-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:19:17,613-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.7977 | Test AUPRC 0.7956
+2022-07-07 17:19:17,613-OCGNN-INFO-Test f1:0.6788,acc:0.5286,pre:0.5146,recall:0.997
+2022-07-07 17:19:17,613-OCGNN-INFO-
+
+2022-07-07 17:19:17,806-OCGNN-INFO-Start training
+2022-07-07 17:19:17,806-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:19:17,806-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:20:41,503-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8022 | Test AUPRC 0.7931
+2022-07-07 17:20:41,503-OCGNN-INFO-Test f1:0.6803,acc:0.5354,pre:0.5184,recall:0.9893
+2022-07-07 17:20:41,503-OCGNN-INFO-
+
+2022-07-07 17:20:41,721-OCGNN-INFO-Start training
+2022-07-07 17:20:41,721-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:20:41,721-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:22:05,330-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8131 | Test AUPRC 0.8030
+2022-07-07 17:22:05,330-OCGNN-INFO-Test f1:0.6757,acc:0.5263,pre:0.5135,recall:0.9878
+2022-07-07 17:22:05,330-OCGNN-INFO-
+
+2022-07-07 17:22:05,565-OCGNN-INFO-Start training
+2022-07-07 17:22:05,565-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:22:05,565-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:23:29,197-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8008 | Test AUPRC 0.7924
+2022-07-07 17:23:29,197-OCGNN-INFO-Test f1:0.6715,acc:0.5171,pre:0.5086,recall:0.9878
+2022-07-07 17:23:29,197-OCGNN-INFO-
+
+2022-07-07 17:23:29,413-OCGNN-INFO-Start training
+2022-07-07 17:23:29,413-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-07 17:23:29,413-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-07 17:24:53,138-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8138 | Test AUPRC 0.8009
+2022-07-07 17:24:53,138-OCGNN-INFO-Test f1:0.6715,acc:0.5118,pre:0.5058,recall:0.9985
+2022-07-07 17:24:53,138-OCGNN-INFO-
+
+2022-07-10 11:49:43,187-OCGNN-INFO-Start training
+2022-07-10 11:49:43,187-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-10 11:49:43,187-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-10 11:51:09,719-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8388 | Test AUPRC 0.7763
+2022-07-10 11:51:09,719-OCGNN-INFO-Test f1:0.5984,acc:0.4468,pre:0.4299,recall:0.9843
+2022-07-10 11:51:09,719-OCGNN-INFO-
+
+2022-07-10 11:51:09,925-OCGNN-INFO-Start training
+2022-07-10 11:51:09,926-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-10 11:51:09,926-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-10 11:52:38,271-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8271 | Test AUPRC 0.7397
+2022-07-10 11:52:38,271-OCGNN-INFO-Test f1:0.6142,acc:0.479,pre:0.4451,recall:0.9902
+2022-07-10 11:52:38,271-OCGNN-INFO-
+
+2022-07-10 11:52:38,496-OCGNN-INFO-Start training
+2022-07-10 11:52:38,496-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-10 11:52:38,496-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-10 11:54:06,042-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8337 | Test AUPRC 0.7483
+2022-07-10 11:54:06,043-OCGNN-INFO-Test f1:0.6011,acc:0.4485,pre:0.4311,recall:0.9921
+2022-07-10 11:54:06,043-OCGNN-INFO-
+
+2022-07-10 11:54:06,276-OCGNN-INFO-Start training
+2022-07-10 11:54:06,276-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-10 11:54:06,276-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-10 11:55:32,929-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8330 | Test AUPRC 0.7581
+2022-07-10 11:55:32,929-OCGNN-INFO-Test f1:0.6004,acc:0.4501,pre:0.4315,recall:0.9862
+2022-07-10 11:55:32,929-OCGNN-INFO-
+
+2022-07-10 11:55:33,158-OCGNN-INFO-Start training
+2022-07-10 11:55:33,158-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-10 11:55:33,159-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-10 11:56:59,443-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8431 | Test AUPRC 0.7554
+2022-07-10 11:56:59,443-OCGNN-INFO-Test f1:0.6002,acc:0.4444,pre:0.4295,recall:0.9961
+2022-07-10 11:56:59,443-OCGNN-INFO-
+
+2022-07-11 18:53:03,764-OCGNN-INFO-Start training
+2022-07-11 18:53:03,764-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-11 18:53:03,764-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-11 18:54:32,327-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8441 | Test AUPRC 0.7679
+2022-07-11 18:54:32,327-OCGNN-INFO-Test f1:0.5989,acc:0.4435,pre:0.4289,recall:0.9921,pre@50:0.44,pre@100:0.449,pre@200:0.4219,
+2022-07-11 18:54:32,327-OCGNN-INFO-
+
+2022-07-11 18:54:32,525-OCGNN-INFO-Start training
+2022-07-11 18:54:32,525-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-11 18:54:32,525-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-11 18:56:02,887-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8410 | Test AUPRC 0.7653
+2022-07-11 18:56:02,887-OCGNN-INFO-Test f1:0.5968,acc:0.4386,pre:0.4268,recall:0.9921,pre@50:0.449,pre@100:0.4444,pre@200:0.4091,
+2022-07-11 18:56:02,887-OCGNN-INFO-
+
+2022-07-11 18:56:03,108-OCGNN-INFO-Start training
+2022-07-11 18:56:03,108-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-11 18:56:03,108-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-11 18:57:32,798-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8323 | Test AUPRC 0.7505
+2022-07-11 18:57:32,798-OCGNN-INFO-Test f1:0.6036,acc:0.4575,pre:0.4349,recall:0.9862,pre@50:0.449,pre@100:0.4536,pre@200:0.4263,
+2022-07-11 18:57:32,798-OCGNN-INFO-
+
+2022-07-11 18:57:33,030-OCGNN-INFO-Start training
+2022-07-11 18:57:33,030-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-11 18:57:33,030-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-11 18:59:05,748-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8277 | Test AUPRC 0.7614
+2022-07-11 18:59:05,748-OCGNN-INFO-Test f1:0.616,acc:0.4839,pre:0.4474,recall:0.9882,pre@50:0.449,pre@100:0.449,pre@200:0.4286,
+2022-07-11 18:59:05,748-OCGNN-INFO-
+
+2022-07-11 18:59:05,981-OCGNN-INFO-Start training
+2022-07-11 18:59:05,981-OCGNN-INFO-dropout:0.5, nu:0.2,seed:52,lr:0.001,self-loop:True,norm:False
+2022-07-11 18:59:05,981-OCGNN-INFO-n-epochs:3000, n-hidden:64,n-layers:4,weight-decay:0.0005,noise_p:0.01,noise_d:2
+2022-07-11 19:00:36,915-OCGNN-INFO-Current epoch: 2999 Test AUROC 0.8299 | Test AUPRC 0.7439
+2022-07-11 19:00:36,915-OCGNN-INFO-Test f1:0.6033,acc:0.4567,pre:0.4345,recall:0.9862,pre@50:0.44,pre@100:0.4479,pre@200:0.4241,
+2022-07-11 19:00:36,915-OCGNN-INFO-
+
