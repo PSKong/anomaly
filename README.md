@@ -2,7 +2,7 @@ ConGNN
 ============
 
 
-This is the source code of paper: [Counterfactual Graph Learning for Anomaly Detection on Attributed Networks].
+This is the source code of paper: [Controlled Graph Neural Networks with Denoising Diffusion for Network Anomaly Detection].
 
 ConGNN aims at being generalized to new environments by learning causal relations for anomaly detection
 
