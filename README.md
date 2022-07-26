@@ -8,7 +8,7 @@ ConGNN aims at being generalized to new environments by learning causal relation
 
 
 ## Requirements
-python==2.7.3
+python==3.7.3
 
 pytorch>=1.4
 DGL>=0.4.2
