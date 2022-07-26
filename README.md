@@ -20,13 +20,13 @@ networkx>=2.1
 ```python main.py```
 
 ## Folder descriptions
-*01ExtractingCoreSubgraphs:* This is used to extract the core subgraph of a given node based on causal explanations for GNNs.
+*datesets:* This is used to extract the core subgraph of a given node based on causal explanations for GNNs.
 
-*02TrainingRepresentation:* This is used to train the representation generator which takes random noises as input and outputs synthetic representations for producing counterfactual subgraphs.
+*networks:* This is used to train the representation generator which takes random noises as input and outputs synthetic representations for producing counterfactual subgraphs.
 
-*03GeneratingCounterfactualSubgraphs:* This is used to produce counterfactual subgraphs based on extracted representations.
+*train:* This is used to produce counterfactual subgraphs based on extracted representations.
 
-*04AnomalyDetection:* This is used to conduct anomaly detection with varying environments based on a few labeled anomalies.
+*train_log:* This is used to conduct anomaly detection with varying environments based on a few labeled anomalies.
 
 ## Motivation for ConGNN
 Anomaly detection aims to identify the anomalies which are considered as data objects deviating dramatically from the majority. It has a wide range of applications from detecting network attacks in cybersecurity, and inspecting fraudulent transactions in finance, to investigating diseases in healthcare. Recently, remarkable improvement has been achieved by taking advantage of different deep learning techniques, such as Autoencoders, GANs and few-show learning. Despite the improvements achieved, existing methods still struggle in generalization beyond training data distribution, where a well-trained model might suffer from performance degradation when applying to newly observed nodes with different environments.
